@@ -11,9 +11,9 @@ Welcome to Brian Kiarie Muigai's profile! <img src="https://media.giphy.com/medi
 
 <img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
 
-hi, i'm [Brian Muigai](https://website/), a passionate full stack web developer and a freelance software engineer student from Moringa school Nairobi Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Brian Muigai](https://website/), a passionate full stack web developer and a freelance software engineer student from Moringa school Nairobi Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the community and i love how the collaboration and knowledge sharing happens.
 
 
 
